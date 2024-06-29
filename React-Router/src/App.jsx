@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-     <h1 className='bg-red'>REACT ROUTER</h1>
+     <h1 className=''>REACT ROUTER</h1>
     </>
   )
 }
